@@ -1,0 +1,3463 @@
+{
+  "_metadata": {
+    "timestamp": "2026-01-12T10:54:59.171443",
+    "total_mapped": 864,
+    "source": "Merged from API categorization and confirmed mappings"
+  },
+  "282491": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "282498": {
+    "title": "Question of Antarctica :",
+    "meta_topic": "Environmental Issues"
+  },
+  "282500": {
+    "title": "Production of fissionable material for weapon purposes :",
+    "meta_topic": "Disarmament"
+  },
+  "282532": {
+    "title": "The uprising (intifadah) of the Palestinian people :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282534": {
+    "title": "Programme of work of the Special Committee against Apartheid :",
+    "meta_topic": "Human Rights"
+  },
+  "282542": {
+    "title": "Status of the International Convention on the Suppression and Punishment of the Crime of Apartheid :",
+    "meta_topic": "Human Rights"
+  },
+  "282546": {
+    "title": "World social situation :",
+    "meta_topic": "Development"
+  },
+  "282557": {
+    "title": "International cooperation to mitigate the environmental consequences on Kuwait and other countries in the region resulting from the situation between Iraq and Kuwait :",
+    "meta_topic": "Environmental Issues"
+  },
+  "282825": {
+    "title": "Question of the Comorian Island of Mayotte :",
+    "meta_topic": "Decolonization"
+  },
+  "282873": {
+    "title": "Palestine refugees in territory occupied since 1967 :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282888": {
+    "title": "Regional confidence-building measures :",
+    "meta_topic": "Regional Security"
+  },
+  "282890": {
+    "title": "Status of the International Convention on the Suppression and Punishment of the Crime of Apartheid :",
+    "meta_topic": "Human Rights"
+  },
+  "283288": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Decolonization"
+  },
+  "283291": {
+    "title": "The situation in the Middle East : Jerusalem :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283307": {
+    "title": "Maintenance of international security :",
+    "meta_topic": "Security"
+  },
+  "283311": {
+    "title": "Israeli nuclear armament :",
+    "meta_topic": "Disarmament"
+  },
+  "283556": {
+    "title": "Question of Antarctica :",
+    "meta_topic": "Environmental Issues"
+  },
+  "283588": {
+    "title": "Individual territories :",
+    "meta_topic": "Decolonization"
+  },
+  "284147": {
+    "title": "Department of Public Information of the Secretariat :",
+    "meta_topic": "Procedural"
+  },
+  "284575": {
+    "title": "Comprehensive review of the whole question of peacekeeping operations in all their aspects :",
+    "meta_topic": "Regional Security"
+  },
+  "284919": {
+    "title": "The situation in the Middle East : the Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284934": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Decolonization"
+  },
+  "284953": {
+    "title": "Emergency assistance to the Sudan :",
+    "meta_topic": "Displacement"
+  },
+  "404033": {
+    "title": "Preservation of and compliance with the Treaty on the Limitation of Anti-Ballistic Missile System :",
+    "meta_topic": "Disarmament"
+  },
+  "283680": {
+    "title": "Situation of human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "404532": {
+    "title": "Small arms :",
+    "meta_topic": "Disarmament"
+  },
+  "3840125": {
+    "title": "Office of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "3996917": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "1327544": {
+    "title": "The human rights to safe drinking water and sanitation :",
+    "meta_topic": "Human Rights"
+  },
+  "1642599": {
+    "title": "Implementation of the recommendations contained in the report of the Secretary-General on the causes of conflict and the promotion of durable peace and sustainable development in Africa :",
+    "meta_topic": "Development"
+  },
+  "3997632": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "3879562": {
+    "title": "New Partnership for Africa's Development : progress in implementation and international support :",
+    "meta_topic": "Development"
+  },
+  "4029225": {
+    "title": "Reducing space threats through norms, rules and principles of responsible behaviours :",
+    "meta_topic": "Disarmament"
+  },
+  "615015": {
+    "title": "Respect for the purposes and principles contained in the Charter of the United Nations to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of a humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "615159": {
+    "title": "United Nations Regional Centre for Peace and Disarmament in Africa :",
+    "meta_topic": "Disarmament"
+  },
+  "4040686": {
+    "title": "Measures to combat Islamophobia :",
+    "meta_topic": "Human Rights"
+  },
+  "644537": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "527352": {
+    "title": "Reaffirming the cental role of the United Nations in the maintenance of international peace and security and the promotion of international cooperation :",
+    "meta_topic": "Global Governance"
+  },
+  "537730": {
+    "title": "Situation of human rights in Turkmenistan :",
+    "meta_topic": "Human Rights"
+  },
+  "820103": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements and commitments :",
+    "meta_topic": "Disarmament"
+  },
+  "820106": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "827186": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "855172": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "563464": {
+    "title": "Situation of human rights in the Democratic People’s Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "283619": {
+    "title": "Draft articles on the law of the non-navigational uses of international watercourses :",
+    "meta_topic": "International Law"
+  },
+  "3894283": {
+    "title": "Work of the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and Other Arabs of the Occupied Territories :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3894842": {
+    "title": "Office of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "282510": {
+    "title": "Protection of Palestinian students and educational institutions and safeguarding of the security of UNRWA in the occupied Palestinian territory :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282525": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Decolonization"
+  },
+  "282857": {
+    "title": "Nuclear-arms freeze :",
+    "meta_topic": "Disarmament"
+  },
+  "282862": {
+    "title": "Maintenance of international security :",
+    "meta_topic": "Security"
+  },
+  "282894": {
+    "title": "Policies of apartheid of the government of South Africa : oil embargo against South Africa :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "283292": {
+    "title": "The situation in the Middle East : Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283296": {
+    "title": "Verification in all its aspects, including the role of the United Nations in the field of verification :",
+    "meta_topic": "International Law"
+  },
+  "283917": {
+    "title": "Accreditation of non-governmental organizations to the 4th World Conference on Women :",
+    "meta_topic": "Procedural"
+  },
+  "284123": {
+    "title": "Verification in all its aspects, including the role of the United Nations in the field of verification :",
+    "meta_topic": "International Law"
+  },
+  "284133": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284529": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284900": {
+    "title": "Contributions towards banning anti-personnel landmines :",
+    "meta_topic": "Disarmament"
+  },
+  "284950": {
+    "title": "Situation of human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "827217": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "855234": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "1325772": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "1325973": {
+    "title": "Moderation :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3839953": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "3839983": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "3893833": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "3893838": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "3893840": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "3893842": {
+    "title": "Strengthening and developing the system of arms control, disarmament and non-proliferation treaties and agreements :",
+    "meta_topic": "Disarmament"
+  },
+  "3894838": {
+    "title": "Intensification of efforts to prevent and eliminate all forms of violence against women and girls :",
+    "meta_topic": "Human Rights"
+  },
+  "614676": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "614903": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "615020": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "3895472": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "643906": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "644005": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements and commitments :",
+    "meta_topic": "Disarmament"
+  },
+  "3996903": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3996915": {
+    "title": "Destructive direct-ascent anti-satellite missile testing :",
+    "meta_topic": "Disarmament"
+  },
+  "509177": {
+    "title": "Elimination of all forms of religious intolerance :",
+    "meta_topic": "Human Rights"
+  },
+  "537720": {
+    "title": "Elimination of all forms of religious intolerance :",
+    "meta_topic": "Human Rights"
+  },
+  "537731": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "563982": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "453724": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "454829": {
+    "title": "Situtation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "283323": {
+    "title": "Situation on human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "3950566": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements and commitments :",
+    "meta_topic": "Disarmament"
+  },
+  "3951518": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "4029003": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "4029230": {
+    "title": "Programme of action to advance responsible State behaviour in the use of information and communications technologies in the context of international security :",
+    "meta_topic": "Security"
+  },
+  "4030717": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "4030928": {
+    "title": "Achieving gender equality and empowering all women and girls for realizing all Sustainable Development Goals :",
+    "meta_topic": "Development"
+  },
+  "282535": {
+    "title": "Military and other collaboration with South Africa :",
+    "meta_topic": "Regional Security"
+  },
+  "282540": {
+    "title": "The situation in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282864": {
+    "title": "The situation in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282874": {
+    "title": "Resumption of ration distribution to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "282879": {
+    "title": "Protection of Palestinian educational institutions and UN Relief and Works Agency for Palestine Refugees in the Near East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283299": {
+    "title": "General and complete disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "283639": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "283641": {
+    "title": "Bilateral nuclear-arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284524": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284576": {
+    "title": "United Nations public information policies and activities :",
+    "meta_topic": "Procedural"
+  },
+  "284612": {
+    "title": "United Nations pension system :",
+    "meta_topic": "Procedural"
+  },
+  "284873": {
+    "title": "Return or restitution of cultural property to the countries of origin :",
+    "meta_topic": "Miscellaneous"
+  },
+  "1325776": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "1325791": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "855224": {
+    "title": "Humanitarian Consequences of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3879561": {
+    "title": "Implementation of the recommendations contained in the report of the Secretary-General on the causes of conflict and the promotion of durable peace and sustainable development in Africa :",
+    "meta_topic": "Development"
+  },
+  "738693": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "3996914": {
+    "title": "Strengthening and developing the system of arms control, disarmament and non-proliferation treaties and agreements :",
+    "meta_topic": "Disarmament"
+  },
+  "3996919": {
+    "title": "Programme of action to advance responsible State behaviour in the use of information and communications technologies in the context of international security :",
+    "meta_topic": "Security"
+  },
+  "588176": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "590298": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "613419": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "509181": {
+    "title": "Respect for the purposes and principles contained in the Charter of the UN  to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of a humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "614666": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "454783": {
+    "title": "Respect for the purposes and principles contained in the Charter of the United Nations to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "674135": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "719861": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements and commitments :",
+    "meta_topic": "Disarmament"
+  },
+  "765030": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Decolonization"
+  },
+  "697068": {
+    "title": "Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices :",
+    "meta_topic": "Disarmament"
+  },
+  "719823": {
+    "title": "Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices :",
+    "meta_topic": "Disarmament"
+  },
+  "1657117": {
+    "title": "Advancing responsible State behaviour in cyberspace in the context of international security :",
+    "meta_topic": "Global Governance"
+  },
+  "3839870": {
+    "title": "Advancing responsible State behavior in cyberspace in the context of international security :",
+    "meta_topic": "Security"
+  },
+  "1655326": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "1655344": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "282910": {
+    "title": "Economic and social repercussions of the Israeli settlements on the Palestinian people in the Palestinian territory, including Jerusalem, occupied since 1967, and on the Arab population of the Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283333": {
+    "title": "Economic and social repercussions of the Israeli settlements on the Palestinian people in the Palestinian territory, including Jerusalem, occupied since 1967, and on the Arab population of the Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3951469": {
+    "title": "Office of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "4030710": {
+    "title": "Enlargement of the Executive Committee of the Programme of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "855232": {
+    "title": "Treaty banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "615032": {
+    "title": "Situation of human rights in Belarus :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "482537": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "643997": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "588088": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "509153": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "562412": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "563434": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "696745": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "696789": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "700650": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "282476": {
+    "title": "Return or restitution of cultural property to the countries of origin :",
+    "meta_topic": "Miscellaneous"
+  },
+  "282485": {
+    "title": "Amendment of the Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and under Water :",
+    "meta_topic": "Disarmament"
+  },
+  "282503": {
+    "title": "Palestine refugees in Palestinian territory occupied by Israel since 1967 :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282504": {
+    "title": "Resumption of ration distribution to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "282541": {
+    "title": "The situation in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282547": {
+    "title": "Alternative approaches and ways and means within the United Nations System for improving the effective enjoyment of human rights and fundamental freedoms :",
+    "meta_topic": "Human Rights"
+  },
+  "282553": {
+    "title": "Living conditions of the Palestinian people in the occupied Palestinian territory :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282895": {
+    "title": "Policies of apartheid of the government of South Africa : military and other collaboration with South Africa :",
+    "meta_topic": "Decolonization"
+  },
+  "283166": {
+    "title": "Question of Antarctica :",
+    "meta_topic": "Environmental Issues"
+  },
+  "283280": {
+    "title": "Protection of Palestinian students and educational institutions and safeguarding of the security of the facilities of UNRWA :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283293": {
+    "title": "Middle East peace process :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283306": {
+    "title": "Review of the implementation of the Declaration on the Strengthening of International Security :",
+    "meta_topic": "Security"
+  },
+  "283320": {
+    "title": "Alternative approaches and ways and means within the United Nations System for improving the effective enjoyment of human rights and fundamental freedoms :",
+    "meta_topic": "Human Rights"
+  },
+  "283604": {
+    "title": "Enlargement of the Committee on the Peaceful Uses of Outer Space :",
+    "meta_topic": "Global Governance"
+  },
+  "283628": {
+    "title": "Amendment of the Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and under Water :",
+    "meta_topic": "Disarmament"
+  },
+  "283647": {
+    "title": "The situation in the Middle East : Jerusalem :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283676": {
+    "title": "Alternative approaches and ways and means within the United Nations System for improving the effective enjoyment of human rights and fundamental freedoms :",
+    "meta_topic": "Human Rights"
+  },
+  "284061": {
+    "title": "Multilingualism :",
+    "meta_topic": "Miscellaneous"
+  },
+  "284521": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "284530": {
+    "title": "An international agreement to ban anti-personnel landmines :",
+    "meta_topic": "Disarmament"
+  },
+  "284902": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "285294": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "855200": {
+    "title": "Implementation of the Declaration of the Granting of Independence to Colonial Countries and Peoples by the specialized agencies and the international institutions associated with the United Nations :",
+    "meta_topic": "Decolonization"
+  },
+  "1327554": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "820128": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "827194": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "3893847": {
+    "title": "Advancing responsible State behaviour in cyberspace in the context of international security :",
+    "meta_topic": "Global Governance"
+  },
+  "1656165": {
+    "title": "Office of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "1642598": {
+    "title": "New Partnership for Africa's Development : progress in implementation and international support :",
+    "meta_topic": "Development"
+  },
+  "1655320": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "1655325": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "1656637": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "4029001": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "4029018": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "4031242": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "644071": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "509185": {
+    "title": "Situation of human rights in Turkmenistan :",
+    "meta_topic": "Human Rights"
+  },
+  "590216": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "613418": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "537726": {
+    "title": "Respect for the purposes and principles contained in the Charter of the United Nations to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of a humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "695380": {
+    "title": "Anguilla :",
+    "meta_topic": "Decolonization"
+  },
+  "695387": {
+    "title": "Montserrat :",
+    "meta_topic": "Decolonization"
+  },
+  "282531": {
+    "title": "International Peace Conference on the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282543": {
+    "title": "Elimination of racism and racial discrimination :",
+    "meta_topic": "Human Rights"
+  },
+  "282855": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "282897": {
+    "title": "Policies of apartheid of the government of South Africa : support for work of Commission against Apartheid in Sports :",
+    "meta_topic": "Human Rights"
+  },
+  "282900": {
+    "title": "Alternative approaches and ways and means within the United Nations System for improving the effective enjoyment of human rights and fundamental freedoms :",
+    "meta_topic": "Human Rights"
+  },
+  "283234": {
+    "title": "Return or restitution of cultural property to the countries of origin :",
+    "meta_topic": "Miscellaneous"
+  },
+  "283319": {
+    "title": "United Nations African Institute for the Prevention of Crime and the Treatment of Offenders :",
+    "meta_topic": "Development"
+  },
+  "283643": {
+    "title": "Implementation of the guidelines for appropriate types of confidence-building measures :",
+    "meta_topic": "Disarmament"
+  },
+  "284128": {
+    "title": "Nuclear testing :",
+    "meta_topic": "Disarmament"
+  },
+  "284130": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "284609": {
+    "title": "Emergency assistance to the Sudan :",
+    "meta_topic": "Displacement"
+  },
+  "284901": {
+    "title": "Small arms :",
+    "meta_topic": "Disarmament"
+  },
+  "285291": {
+    "title": "Small arms :",
+    "meta_topic": "Disarmament"
+  },
+  "404035": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "404584": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "855167": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "1325778": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements and commitments :",
+    "meta_topic": "Disarmament"
+  },
+  "3996836": {
+    "title": "Promoting international cooperation on peaceful uses in the context of international security :",
+    "meta_topic": "International Cooperation"
+  },
+  "3996838": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "820126": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "827236": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3893809": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "3950470": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "1655327": {
+    "title": "Treaty Banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "3827191": {
+    "title": "New Partnership for Africa's Development : progress in implementation and international support :",
+    "meta_topic": "Development"
+  },
+  "3827192": {
+    "title": "Implementation of the recommendations contained in the report of the Secretary-General on the causes of conflict and the promotion of durable peace and sustainable development in Africa :",
+    "meta_topic": "Development"
+  },
+  "3950468": {
+    "title": "Treaty Banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "614527": {
+    "title": "Work of the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and Other Arabs of the Occupied Territories :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282474": {
+    "title": "Question of the Comorian Island of Mayotte :",
+    "meta_topic": "Decolonization"
+  },
+  "282497": {
+    "title": "Israeli nuclear armament :",
+    "meta_topic": "Disarmament"
+  },
+  "282499": {
+    "title": "Question of Antarctica :",
+    "meta_topic": "Environmental Issues"
+  },
+  "282536": {
+    "title": "Relations between South Africa and Israel :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282838": {
+    "title": "Observer status of national liberation movements recognized by the Organization of African Unity and/or by the League of Arab States :",
+    "meta_topic": "Decolonization"
+  },
+  "282848": {
+    "title": "Amendment of the Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and under Water :",
+    "meta_topic": "Disarmament"
+  },
+  "282896": {
+    "title": "Policies of apartheid of the government of South Africa : relations between South Africa and Israel :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282902": {
+    "title": "Situation of human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "283637": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "283648": {
+    "title": "The situation in the Middle East - Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283649": {
+    "title": "Middle East peace process :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284134": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284135": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284523": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284611": {
+    "title": "Proclamation of 21 November as World Television Day :",
+    "meta_topic": "Miscellaneous"
+  },
+  "285293": {
+    "title": "Nuclear testing :",
+    "meta_topic": "Disarmament"
+  },
+  "285301": {
+    "title": "Nuclear disarmament with a view to the ultimate elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "285524": {
+    "title": "Participation of Palestine in the work of the United Nations :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "404036": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "427523": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "428800": {
+    "title": "Respect for the purposes and principles contained in the Charter of the United Nations to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of a humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "1655343": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3839814": {
+    "title": "Strengthening and developing the system of arms control, disarmament and non-proliferation treaties and agreements :",
+    "meta_topic": "Disarmament"
+  },
+  "3839956": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "3839958": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "644764": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "479335": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "3951463": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "3996908": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "3997726": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "508006": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "508008": {
+    "title": "Confidence-building measures in the regional and subregional context :",
+    "meta_topic": "Regional Security"
+  },
+  "724459": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "4029007": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "537030": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and People by the specialized agencies and the international institutions associated with the United Nations :",
+    "meta_topic": "Decolonization"
+  },
+  "820076": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "820086": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "738687": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "855229": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "563463": {
+    "title": "Situation of human rights in Turkmenistan :",
+    "meta_topic": "Human Rights"
+  },
+  "589951": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "765004": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "765083": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "697069": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "700637": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "3950469": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "3950564": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3952167": {
+    "title": "Promoting international cooperation on peaceful uses in the context of international security :",
+    "meta_topic": "International Cooperation"
+  },
+  "3952170": {
+    "title": "Reducing space threats through norms, rules and principles of responsible behaviours :",
+    "meta_topic": "Disarmament"
+  },
+  "1655332": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "1656169": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "3996895": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "283669": {
+    "title": "Economic and social repercussions of the Israeli settlements on the Palestinian people in the Palestinian territory, including Jerusalem, occupied since 1967, and on the Arab population of the Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284152": {
+    "title": "Economic and social repercussions of the Israeli settlements on the Palestinian people in the Palestinian territory, including Jerusalem, occupied since 1967, and on the Arab population of the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284570": {
+    "title": "Work of the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and Other Arabs of the Occupied Territories :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4030709": {
+    "title": "Enlargement of the Executive Committee of the Programme of the United Nations High Commissioner for Refugees :",
+    "meta_topic": "Displacement"
+  },
+  "738694": {
+    "title": "Treaty Banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "283304": {
+    "title": "Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects :",
+    "meta_topic": "Disarmament"
+  },
+  "509188": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "536207": {
+    "title": "Missiles :",
+    "meta_topic": "Disarmament"
+  },
+  "538364": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "674407": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "590299": {
+    "title": "Situation of human rights in Belarus :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "563465": {
+    "title": "Situation of human rights in Uzbekistan :",
+    "meta_topic": "Human Rights"
+  },
+  "644538": {
+    "title": "Combating defamation of religions :",
+    "meta_topic": "Human Rights"
+  },
+  "644571": {
+    "title": "Situation of human rights in the Democratic People's Republic of Korea :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "697855": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "282492": {
+    "title": "Bilateral nuclear-arms negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "282537": {
+    "title": "Oil embargo against South Africa :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "282861": {
+    "title": "Review of the implementation of the declaration on strengthening of international security :",
+    "meta_topic": "Security"
+  },
+  "282863": {
+    "title": "The situation in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "282893": {
+    "title": "United Nations African Institute for the Prevention of Crime and the Treatment of Offenders :",
+    "meta_topic": "Development"
+  },
+  "283290": {
+    "title": "Question of the Comorian Island of Mayotte :",
+    "meta_topic": "Decolonization"
+  },
+  "283297": {
+    "title": "Amendment of the Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and under Water :",
+    "meta_topic": "Disarmament"
+  },
+  "284508": {
+    "title": "The Middle East peace process :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284561": {
+    "title": "Situation of human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "284833": {
+    "title": "Convention on the Law of the Non-Navigational Uses of International Watercourses :",
+    "meta_topic": "International Law"
+  },
+  "284904": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "285264": {
+    "title": "The situation in the Middle East : the Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "285287": {
+    "title": "Maintenance of international security : prevention of the violent disintegration of States :",
+    "meta_topic": "Security"
+  },
+  "285306": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "404048": {
+    "title": "Maintenance of international security - stability and development of South-Eastern Europe :",
+    "meta_topic": "Regional Security"
+  },
+  "405168": {
+    "title": "Measures to eliminate international terrorism :",
+    "meta_topic": "Security"
+  },
+  "855191": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "1325783": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "1468215": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "3893807": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3893851": {
+    "title": "Reducing space threats through norms, rules and principles of responsible behaviours :",
+    "meta_topic": "Disarmament"
+  },
+  "738696": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "740182": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "827177": {
+    "title": "Taking forward multilateral nuclear disarmament negotiations :",
+    "meta_topic": "Disarmament"
+  },
+  "827196": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "3839980": {
+    "title": "Humanitarian consequences of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3950568": {
+    "title": "Ethical imperatives for a nuclear-weapon-free world :",
+    "meta_topic": "Disarmament"
+  },
+  "3893811": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "3893837": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "3893844": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "3894866": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "282859": {
+    "title": "Israeli nuclear armament :",
+    "meta_topic": "Disarmament"
+  },
+  "284165": {
+    "title": "Situation of the human rights in Cuba :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "282490": {
+    "title": "Implementation of the Denuclearization of Africa : nuclear capacity of South Africa :",
+    "meta_topic": "Disarmament"
+  },
+  "282552": {
+    "title": "United Nations African Institute for the Prevention of Crime and the Treatment of Offenders :",
+    "meta_topic": "Miscellaneous"
+  },
+  "282854": {
+    "title": "Prohibition of production of fissionable material :",
+    "meta_topic": "Disarmament"
+  },
+  "282906": {
+    "title": "International cooperation to mitigate the environmental consequences on Kuwait and other countries in the region resulting from the situation between Iraq and Kuwait :",
+    "meta_topic": "Environmental Issues"
+  },
+  "283275": {
+    "title": "Palestine refugees in the Palestinian territory occupied by Israel since 1967 :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "283301": {
+    "title": "Regional disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "283316": {
+    "title": "Status of the International Convention on the Suppression and Punishment of the Crime of Apartheid :",
+    "meta_topic": "Human Rights"
+  },
+  "283329": {
+    "title": "Department of Public Information of the Secretariat :",
+    "meta_topic": "Procedural"
+  },
+  "283594": {
+    "title": "Question of the Comorian Island of Mayotte :",
+    "meta_topic": "Decolonization"
+  },
+  "283632": {
+    "title": "Review of the Declaration of the 1990s as the Third Disarmament Decade :",
+    "meta_topic": "Disarmament"
+  },
+  "283646": {
+    "title": "The South Atlantic region as a nuclear-weapon-free zone :",
+    "meta_topic": "Disarmament"
+  },
+  "284093": {
+    "title": "Middle East peace process :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284111": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Decolonization"
+  },
+  "284119": {
+    "title": "Return to restitution of cultural property to the countries of origin :",
+    "meta_topic": "Miscellaneous"
+  },
+  "284125": {
+    "title": "Amendment of the Treaty Banning Nuclear Weapen Tests in the Atmosphere, in Outer Space and under Water :",
+    "meta_topic": "Disarmament"
+  },
+  "284129": {
+    "title": "Small arms :",
+    "meta_topic": "Disarmament"
+  },
+  "284138": {
+    "title": "Bilateral nuclear arms negotiations and nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284472": {
+    "title": "The situation in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "284519": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "284535": {
+    "title": "The maintenance of international security :",
+    "meta_topic": "Security"
+  },
+  "284910": {
+    "title": "Role of the UN in disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "1325766": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "428807": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "1655339": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "1655342": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "3839961": {
+    "title": "Strengthening of security and cooperation in the Mediterranean region :",
+    "meta_topic": "Regional Security"
+  },
+  "3840123": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "3840221": {
+    "title": "Eradicating rural poverty to implement the 2030 Agenda for Sustainable Development :",
+    "meta_topic": "Development"
+  },
+  "700454": {
+    "title": "Moratorium on the use of the death penalty :",
+    "meta_topic": "Human Rights"
+  },
+  "643988": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "820092": {
+    "title": "Effects of the use of armaments and ammunitions containing depleted uranium :",
+    "meta_topic": "Disarmament"
+  },
+  "827205": {
+    "title": "Implementation of the Convention on Cluster Munitions :",
+    "meta_topic": "Disarmament"
+  },
+  "855204": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "482402": {
+    "title": "Rights of the child :",
+    "meta_topic": "Human Rights"
+  },
+  "482520": {
+    "title": "Respect for the purposes and principles contained in the Charter of the United Nations to achieve international cooperation in promoting and encouraging respect for human rights and for fundamental freedoms and in solving international problems of a humanitarian character :",
+    "meta_topic": "International Cooperation"
+  },
+  "562392": {
+    "title": "Compliance with non-proliferation, arms limitation and disarmament agreements :",
+    "meta_topic": "Disarmament"
+  },
+  "562929": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples by the specialized agencies and the internatinal institutions associated with the United Nations :",
+    "meta_topic": "Decolonization"
+  },
+  "740175": {
+    "title": "United Nations Human Rights Training and Documentation Centre for South-West Asia and the Arab Region :",
+    "meta_topic": "Human Rights"
+  },
+  "563466": {
+    "title": "Situation of human rights in the Democratic Republic of the Congo :",
+    "meta_topic": "Human Rights"
+  },
+  "588089": {
+    "title": "Convening of the 4th special session of the General Assembly devoted to disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "613895": {
+    "title": "Decreasing the operational readiness of nuclear weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "613904": {
+    "title": "Transparency and confidence-building measures in outer space activities :",
+    "meta_topic": "Global Governance"
+  },
+  "827173": {
+    "title": "Treaty Banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "282554": {
+    "title": "Adverse economic effects of Israeli settlements in the occupied Palestinian territory, including Jerusalem, and other Arab territories occuped since 1967 :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3996897": {
+    "title": "Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices :",
+    "meta_topic": "Disarmament"
+  },
+  "4029020": {
+    "title": "Treaty Banning the Production of Fissile Material for Nuclear Weapons or Other Nuclear Explosive Devices :",
+    "meta_topic": "Disarmament"
+  },
+  "1305244": {
+    "title": "The United Nations in global economic governance :",
+    "meta_topic": "International Cooperation"
+  },
+  "3952166": {
+    "title": "Problems arising from the accumulation of conventional ammunition stockpiles in surplus :",
+    "meta_topic": "Disarmament"
+  },
+  "3996093": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3997612": {
+    "title": "Role of the United Nations in promoting development in the context of globalization and interdependence :",
+    "meta_topic": "Development"
+  },
+  "1325857": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self Governing Territories :",
+    "meta_topic": "Human Rights"
+  },
+  "1654876": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "1654880": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "1654885": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "1656199": {
+    "title": "Countering the use of information and communications technologies for criminal purposes :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3827354": {
+    "title": "Academy for Human Encounters and Dialogue :",
+    "meta_topic": "Human Rights"
+  },
+  "3834943": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "3837253": {
+    "title": "The situation in Afghanistan :",
+    "meta_topic": "Displacement"
+  },
+  "3839979": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3840218": {
+    "title": "Harmony with nature :",
+    "meta_topic": "Development"
+  },
+  "3841022": {
+    "title": "Programme planning :",
+    "meta_topic": "Development"
+  },
+  "3997770": {
+    "title": "Intensification of efforts to prevent and eliminate all forms of violence against women and girls: gender stereotypes and negative social norms :",
+    "meta_topic": "Human Rights"
+  },
+  "687112": {
+    "title": "The human right to water and sanitation :",
+    "meta_topic": "Human Rights"
+  },
+  "733398": {
+    "title": "The situation in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "3893458": {
+    "title": "Promotion of interreligious and intercultural dialogue, understanding and cooperation for peace :",
+    "meta_topic": "International Cooperation"
+  },
+  "3950872": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "765027": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "4025763": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "4029443": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "4031004": {
+    "title": "Lethal autonomous weapons systems :",
+    "meta_topic": "Disarmament"
+  },
+  "644046": {
+    "title": "Consolidation of peace through practical disarmament measures :",
+    "meta_topic": "Disarmament"
+  },
+  "644218": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "646052": {
+    "title": "Guam :",
+    "meta_topic": "Miscellaneous"
+  },
+  "646053": {
+    "title": "Montserrat :",
+    "meta_topic": "Miscellaneous"
+  },
+  "480142": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "482407": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "482535": {
+    "title": "Khmer Rouge trials :",
+    "meta_topic": "International Law"
+  },
+  "508874": {
+    "title": "Assistance to the Palestinian people :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "509174": {
+    "title": "Access to medication in the context of pandemics such as HIV/AIDS, tuberculosis and malaria :",
+    "meta_topic": "Development"
+  },
+  "509180": {
+    "title": "Protection of human rights and fundamental freedoms while countering terrorism :",
+    "meta_topic": "Human Rights"
+  },
+  "521431": {
+    "title": "Status of the Occupied Territory, including East Jerusalem :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "820059": {
+    "title": "Third Conference of States Parties and Signatories to Treaties that Establish Nuclear-Weapon-Free Zones and Mongolia, 2015 :",
+    "meta_topic": "Disarmament"
+  },
+  "820115": {
+    "title": "Preventing and combating illicit brokering activities :",
+    "meta_topic": "Disarmament"
+  },
+  "827198": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "827219": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "849568": {
+    "title": "Cooperation between the United Nations and the League of Arab States :",
+    "meta_topic": "International Cooperation"
+  },
+  "855170": {
+    "title": "Use of mercenaries as a means of violating human rights and impeding the exercise of the right of peoples to self determination :",
+    "meta_topic": "Human Rights"
+  },
+  "855175": {
+    "title": "Nuclear disarmament verification :",
+    "meta_topic": "Disarmament"
+  },
+  "855202": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "551967": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "562404": {
+    "title": "Relationship between disarmament and development :",
+    "meta_topic": "Disarmament"
+  },
+  "562500": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "562864": {
+    "title": "Palestine Refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "562938": {
+    "title": "Second International Decade for the Eradication of Colonialism :",
+    "meta_topic": "Displacement"
+  },
+  "672938": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "673929": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Displacement"
+  },
+  "673950": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Displacement"
+  },
+  "674042": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "719132": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "720043": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "442961": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "588085": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "588127": {
+    "title": "Relationship between disarmament and development :",
+    "meta_topic": "Disarmament"
+  },
+  "588948": {
+    "title": "Question of Western Sahara :",
+    "meta_topic": "Displacement"
+  },
+  "614536": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "537023": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem and the Occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "588911": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "644287": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "673912": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Displacement"
+  },
+  "4025240": {
+    "title": "Protection of civilians and upholding legal and humanitarian obligations :",
+    "meta_topic": "Human Rights"
+  },
+  "4029009": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "4029014": {
+    "title": "Radiological weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "720050": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4031005": {
+    "title": "Addressing the legacy of nuclear weapons: providing victim assistance and environmental remediation to Member States affected by the use or testing of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "426997": {
+    "title": "Large-scale pelagic drift-net fishing, unauthorized fishing in zones of national jurisdiction and on the high seas, fisheries by-catch and discards, and other developments :",
+    "meta_topic": "Development"
+  },
+  "427521": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapon :",
+    "meta_topic": "Disarmament"
+  },
+  "427524": {
+    "title": "Preservation of an compliance with the Treaty on the Limitation of Anti-Ballistic Missile System :",
+    "meta_topic": "Disarmament"
+  },
+  "855193": {
+    "title": "The Situation in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "855215": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Cooperation"
+  },
+  "855217": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1325769": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "1325862": {
+    "title": "Question of Guam :",
+    "meta_topic": "Displacement"
+  },
+  "3840219": {
+    "title": "Combating sand and dust storms :",
+    "meta_topic": "Development"
+  },
+  "3894285": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "3894511": {
+    "title": "Global health and foreign policy : strengthening health system resilience through affordable health care for all :",
+    "meta_topic": "Development"
+  },
+  "3894844": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "613920": {
+    "title": "Relationship between disarmament and development :",
+    "meta_topic": "Disarmament"
+  },
+  "613927": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3896178": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "3897076": {
+    "title": "Financing of appropriations for the year 2021 :",
+    "meta_topic": "International Cooperation"
+  },
+  "3897077": {
+    "title": "Budget appropriations for 2021 :",
+    "meta_topic": "International Cooperation"
+  },
+  "639347": {
+    "title": "Individual territories :",
+    "meta_topic": "Miscellaneous"
+  },
+  "643898": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "644223": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "646049": {
+    "title": "Bermuda :",
+    "meta_topic": "Miscellaneous"
+  },
+  "697324": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Miscellaneous"
+  },
+  "1627950": {
+    "title": "Towards a Global Pact for the Environment :",
+    "meta_topic": "Development"
+  },
+  "1655323": {
+    "title": "Preventing and combating illicit brokering activities :",
+    "meta_topic": "Disarmament"
+  },
+  "3950466": {
+    "title": "Universal Declaration on the Achievement of a Nuclear-Weapon-Free World :",
+    "meta_topic": "Disarmament"
+  },
+  "3950476": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "3950786": {
+    "title": "Promotion of interreligious and intercultural dialogue, understanding and cooperation for peace :",
+    "meta_topic": "International Cooperation"
+  },
+  "3950868": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "3951516": {
+    "title": "Combating sand and dust storms :",
+    "meta_topic": "Development"
+  },
+  "3996094": {
+    "title": "The Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3997232": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4003921": {
+    "title": "Principles of the Charter of the United Nations underlying a comprehensive, just and lasting peace in Ukraine :",
+    "meta_topic": "International Law"
+  },
+  "1655329": {
+    "title": "Universal Declaration on the Achievement of a Nuclear-Weapon-Free World :",
+    "meta_topic": "Disarmament"
+  },
+  "1655338": {
+    "title": "Fourth Conference of Nuclear-Weapon-Free Zones and Mongolia, 2020 :",
+    "meta_topic": "Disarmament"
+  },
+  "671951": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "672037": {
+    "title": "Follow-up to the report of the United Nations Fact-Finding Mission on the Gaza Conflict  :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "673193": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "673488": {
+    "title": "Second Conference of States Parties and Signatories to Treaties that Establish Nuclear-Weapon-Free Zones and Mongolia :",
+    "meta_topic": "Disarmament"
+  },
+  "738659": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "738675": {
+    "title": "Treaty on a Nuclear-Weapon-Free Zone in Central Asia :",
+    "meta_topic": "Disarmament"
+  },
+  "739988": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "478356": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "588934": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "590183": {
+    "title": "The human rights situation arising from the recent Israeli military operations in Lebanon :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "590198": {
+    "title": "Composition of the staff of the Office of the United Nations High Commissioner for Human Rights :",
+    "meta_topic": "Human Rights"
+  },
+  "590543": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "609197": {
+    "title": "United Nations Declaration on the Rights of Indigenous Peoples :",
+    "meta_topic": "Human Rights"
+  },
+  "479332": {
+    "title": "Relationship between disarmament and development :",
+    "meta_topic": "Development"
+  },
+  "479334": {
+    "title": "National legislation on transfer of arms, military equipment and dual use of goods and technology :",
+    "meta_topic": "Disarmament"
+  },
+  "482399": {
+    "title": "Future operations of the International Research and Training Institute for the Advancement of Women :",
+    "meta_topic": "Development"
+  },
+  "507408": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "508079": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "509151": {
+    "title": "Situation of and assistance to Palestinian children :",
+    "meta_topic": "Displacement"
+  },
+  "534121": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the Unites States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "536205": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "537722": {
+    "title": "Enhancing the role of regional, subregional and other organizations and arrangements in promoting and consolidating democracy :",
+    "meta_topic": "International Cooperation"
+  },
+  "537725": {
+    "title": "Respect for the right to universal freedom of travel and the vital importance of family reunification :",
+    "meta_topic": "Displacement"
+  },
+  "712767": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "727813": {
+    "title": "Intergovernmental process of the General Assembly on strengthening and enhancing the effective functioning of the human rights treaty body system :",
+    "meta_topic": "Human Rights"
+  },
+  "765014": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "774238": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "782030": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "429140": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "429858": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "561753": {
+    "title": "Peaceful settlement of the Question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "562504": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "563432": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "563459": {
+    "title": "Respect for the principles of national sovereignty and diversity of democratic systems in electoral processes as an important element for the promotion and protection of human rights :",
+    "meta_topic": "Human Rights"
+  },
+  "574516": {
+    "title": "Investing in the United Nations: for a stronger Organization worldwide :",
+    "meta_topic": "Development"
+  },
+  "578375": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "820065": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "820075": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "820107": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "820109": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "820127": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "454789": {
+    "title": "Respect for the principles of national sovereignty and non-interference in the internal affairs of States in their electoral processes as an important element for the promotion and protection of human rights :",
+    "meta_topic": "Human Rights"
+  },
+  "455678": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "644298": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "674095": {
+    "title": "International Covenants on Human Rights :",
+    "meta_topic": "Human Rights"
+  },
+  "4031006": {
+    "title": "Nuclear disarmament verification :",
+    "meta_topic": "Disarmament"
+  },
+  "563801": {
+    "title": "International Year of Deserts and Desertification, 2006 :",
+    "meta_topic": "Development"
+  },
+  "4046991": {
+    "title": "Admission of new Members to the United Nations :",
+    "meta_topic": "International Cooperation"
+  },
+  "820100": {
+    "title": "The Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "820120": {
+    "title": "Basic Principles on Sovereign Debt Restructuring Processes :",
+    "meta_topic": "Development"
+  },
+  "827174": {
+    "title": "Humanitarian pledge for the prohibition and elimination of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "827202": {
+    "title": "Human rights defenders in the context of the Declaration on the Right and Responsibility of Individuals, Groups and Organs of Society to Promote and Protect Universally Recognized Human Rights and Fundamental Freedoms :",
+    "meta_topic": "Human Rights"
+  },
+  "855168": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "855210": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3839965": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3839970": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3880645": {
+    "title": "United response against global health threats : combating COVID-19 :",
+    "meta_topic": "International Cooperation"
+  },
+  "738672": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "738692": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "740420": {
+    "title": "Financing of the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991 :",
+    "meta_topic": "International Law"
+  },
+  "3993873": {
+    "title": "The situation in Afghanistan :",
+    "meta_topic": "Displacement"
+  },
+  "3997231": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "3997625": {
+    "title": "Combating sand and dust storms :",
+    "meta_topic": "Development"
+  },
+  "643953": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "644535": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1630101": {
+    "title": "Protection of the Palestinian civilian population :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "1655459": {
+    "title": "International Day of Multilateralism and Diplomacy for Peace :",
+    "meta_topic": "International Cooperation"
+  },
+  "1656160": {
+    "title": "United Nations Declaration on the Rights of Peasants and Other People Working in Rural Areas :",
+    "meta_topic": "Human Rights"
+  },
+  "588168": {
+    "title": "Problems arising from the accumulation of conventional ammunition stockpiles in surplus :",
+    "meta_topic": "Disarmament"
+  },
+  "588889": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "588953": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Development"
+  },
+  "590174": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "609394": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "613421": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "429139": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "468522": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "482400": {
+    "title": "Situation of and assistance to Palestinian children :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "505386": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "508100": {
+    "title": "Assistance to Palestine refugees and support for the UN Relief and Works Agency for Palestine Refugees in the Near East :",
+    "meta_topic": "Displacement"
+  },
+  "509429": {
+    "title": "Office of the Special Representative for Children and Armed conflict :",
+    "meta_topic": "Displacement"
+  },
+  "614675": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "454255": {
+    "title": "Offers by Member States of grants and scholarships for higher education, including vocational training, for Palestine refugees :",
+    "meta_topic": "Development"
+  },
+  "454257": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Development"
+  },
+  "454297": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "454848": {
+    "title": "Situation of human rights in the Sudan :",
+    "meta_topic": "Human Rights"
+  },
+  "462340": {
+    "title": "Comprehensive implementation of and follow-up to the World Conference against Racism, Racial Discrimination, Xenophobia and Related Intolerance :",
+    "meta_topic": "Human Rights"
+  },
+  "538295": {
+    "title": "Future Operation of the International Research and Training Institute for the Advancement of Women :",
+    "meta_topic": "International Cooperation"
+  },
+  "719860": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "750273": {
+    "title": "The situation in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "765005": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "562599": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "563979": {
+    "title": "Future operation of the International Research and Training Institute for the Advancement of Women :",
+    "meta_topic": "International Cooperation"
+  },
+  "697327": {
+    "title": "Third International Decade for the Eradication of Colonialism :",
+    "meta_topic": "Development"
+  },
+  "701638": {
+    "title": "Questions relating to the programme budget for the biennium 2010-2011 :",
+    "meta_topic": "International Cooperation"
+  },
+  "703013": {
+    "title": "Participation of the European Union in the work of the United Nations :",
+    "meta_topic": "International Cooperation"
+  },
+  "454287": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "673828": {
+    "title": "Work of the Special Committee to Investigate Israel Practices Affecting the Human Rights of the Palestinian People and Other Arabs of the Occupied Territories :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "765019": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "International Law"
+  },
+  "827231": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "855183": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1654879": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "International Law"
+  },
+  "3930118": {
+    "title": "Review of the implementation of General Assembly resolution 72/305 on the strengthening of the Economic and Social Council : Review of the implementation of General Assembly resolutions 67/290 on the format and organizational aspects of the High-Level Political Forum on Sustainable Development and 70/299 on the follow-up and review of the 2030 Agenda for Sustainable Development at the global level :",
+    "meta_topic": "Development"
+  },
+  "3952165": {
+    "title": "Questions relating to the proposed programme budget for 2022 :",
+    "meta_topic": "International Cooperation"
+  },
+  "3959039": {
+    "title": "Aggression against Ukraine :",
+    "meta_topic": "Displacement"
+  },
+  "3979135": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "3994052": {
+    "title": "Furtherance of remedy and reparation for aggression against Ukraine :",
+    "meta_topic": "Displacement"
+  },
+  "3996907": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3996911": {
+    "title": "Preventing the acquisition by terrorists of radioactive sources :",
+    "meta_topic": "Disarmament"
+  },
+  "3997180": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1655328": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3999151": {
+    "title": "Special subjects relating to the proposed programme budget for 2023 :",
+    "meta_topic": "International Cooperation"
+  },
+  "562872": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "588920": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3894275": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "765023": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4029016": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "4029732": {
+    "title": "Protection of civilians and upholding legal and humanitarian obligations :",
+    "meta_topic": "Human Rights"
+  },
+  "615161": {
+    "title": "Convention on the Elimination of All Forms of Discrimination against Women :",
+    "meta_topic": "Human Rights"
+  },
+  "615197": {
+    "title": "Questions relating to the proposed programme budget for the biennium 2008-2009 :",
+    "meta_topic": "Development"
+  },
+  "479327": {
+    "title": "Reduction of non-strategic nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "479344": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "482536": {
+    "title": "Human rights situation in Iraq :",
+    "meta_topic": "Human Rights"
+  },
+  "644300": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "International Cooperation"
+  },
+  "427530": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "427533": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "428573": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "429151": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "International Cooperation"
+  },
+  "588177": {
+    "title": "Consolidation of peace through practical disarmament measures :",
+    "meta_topic": "Disarmament"
+  },
+  "590229": {
+    "title": "Promotion of equitable and mutually respectful dialogue on human rights :",
+    "meta_topic": "Human Rights"
+  },
+  "508875": {
+    "title": "Special assistance for the economic recovery and reconstruction of the Democratic Republic of the Congo :",
+    "meta_topic": "Development"
+  },
+  "526686": {
+    "title": "Advisory opinion of the International Court of Justice on the legal consequences of the construction of a wall in the Occupied Palestinian Territory, including in and around East Jerusalem :",
+    "meta_topic": "International Law"
+  },
+  "537033": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "International Cooperation"
+  },
+  "537669": {
+    "title": "The situation of and assistance to Palestinian children :",
+    "meta_topic": "Displacement"
+  },
+  "562602": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "694928": {
+    "title": "General Assembly resolution supporting the immediate ceasefire according to Security Council resolution 1860 (2009) :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "696799": {
+    "title": "Preventing and combating illicit brokering activities :",
+    "meta_topic": "Disarmament"
+  },
+  "697325": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Cooperation"
+  },
+  "697326": {
+    "title": "Fiftieth anniversary of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Cooperation"
+  },
+  "719746": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "720397": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "855206": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "International Cooperation"
+  },
+  "855212": {
+    "title": "National legislation on transfer of arms, military equipment and dual use goods and technology :",
+    "meta_topic": "Disarmament"
+  },
+  "1298240": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "739998": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Cooperation"
+  },
+  "1479518": {
+    "title": "Effects of terrorism on the enjoyment of human rights :",
+    "meta_topic": "Human Rights"
+  },
+  "3893834": {
+    "title": "Fortieth anniversary of the United Nations Institute for Disarmament Research :",
+    "meta_topic": "Disarmament"
+  },
+  "3894274": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "765017": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "820077": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "820089": {
+    "title": "South-South cooperation :",
+    "meta_topic": "International Cooperation"
+  },
+  "820097": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Development"
+  },
+  "820119": {
+    "title": "International Albinism Awareness Day :",
+    "meta_topic": "Human Rights"
+  },
+  "820122": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "827204": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3896179": {
+    "title": "Programme budget for 2021 :",
+    "meta_topic": "Development"
+  },
+  "3902234": {
+    "title": "Organization of the 2021 High-Level Meeting on HIV/AIDS :",
+    "meta_topic": "Development"
+  },
+  "3839866": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "3839957": {
+    "title": "Joint courses of action and future-oriented dialogue towards a world without nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3840214": {
+    "title": "Commodities :",
+    "meta_topic": "Development"
+  },
+  "3840220": {
+    "title": "Role of the United Nations in promoting development in the context of globalization and interdependence :",
+    "meta_topic": "Development"
+  },
+  "429149": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "482386": {
+    "title": "Occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "508117": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "508121": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "697309": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "720161": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "765009": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1634030": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "1648364": {
+    "title": "Chair of the Group of 77 for 2019 :",
+    "meta_topic": "International Cooperation"
+  },
+  "1654162": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1654874": {
+    "title": "Comprehensive, just and lasting peace in the Middle East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3839959": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1654878": {
+    "title": "The situation in Afghanistan :",
+    "meta_topic": "Displacement"
+  },
+  "1654887": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "1655324": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "1656168": {
+    "title": "Promotion and protection of human rights and fundamental freedoms, including the rights to peaceful assembly and freedom of association :",
+    "meta_topic": "Human Rights"
+  },
+  "1656640": {
+    "title": "Judgement of the International Court of Justice of 31 March 2004 concerning Avena and other Mexican nationals : need for immediate compliance :",
+    "meta_topic": "International Law"
+  },
+  "4029441": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "4031003": {
+    "title": "Proposed programme budget for 2024 : Section 26, Palestine refugees :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4031240": {
+    "title": "Combating sand and dust storms :",
+    "meta_topic": "Development"
+  },
+  "4053203": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "644182": {
+    "title": "The illicit trade in small arms and light weapons in all its aspects :",
+    "meta_topic": "Disarmament"
+  },
+  "644311": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "644568": {
+    "title": "Respect for the right to universal freedom of travel and the vital importance of family reunification :",
+    "meta_topic": "Human Rights"
+  },
+  "482376": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "482392": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "509421": {
+    "title": "Future operation of the International Research and Training Institute for the Advancement of Women :",
+    "meta_topic": "Development"
+  },
+  "588140": {
+    "title": "The illicit trade in small arms and light weapons in all its aspects :",
+    "meta_topic": "Disarmament"
+  },
+  "588237": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "588959": {
+    "title": "Assistance to the Palestinian people :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "590200": {
+    "title": "Respect for the right of universal freedom of travel and the vital importance of family reunification :",
+    "meta_topic": "Human Rights"
+  },
+  "590394": {
+    "title": "Protection of global climate for present and future generations of mankind :",
+    "meta_topic": "Development"
+  },
+  "673288": {
+    "title": "Treaty on the South-East Asia Nuclear-Weapon-Free Zone (Bangkok Treaty) :",
+    "meta_topic": "Disarmament"
+  },
+  "613913": {
+    "title": "The illicit trade in small arms and light weapons in all its aspects :",
+    "meta_topic": "Disarmament"
+  },
+  "614178": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "428805": {
+    "title": "Human rights situation in Iraq :",
+    "meta_topic": "Human Rights"
+  },
+  "543081": {
+    "title": "United Nations declaration on human cloning :",
+    "meta_topic": "Human Rights"
+  },
+  "562933": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "International Cooperation"
+  },
+  "563980": {
+    "title": "Convention on the Elimination of All Forms of Discrimination against Women :",
+    "meta_topic": "Human Rights"
+  },
+  "719134": {
+    "title": "Restoration of the rights of membership of Libya in the Human Rights Council :",
+    "meta_topic": "Human Rights"
+  },
+  "429153": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "International Cooperation"
+  },
+  "454263": {
+    "title": "University of Jerusalem \"Al-Quds\" for Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "694915": {
+    "title": "Establishment of the United Nations Register of Damage caused by the Construction of the Wall in the Occupied Palestinian Territory  :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "696888": {
+    "title": "Treaty on a Nuclear-Weapon-Free Zone in Central Asia :",
+    "meta_topic": "Disarmament"
+  },
+  "704960": {
+    "title": "Report of the Secretary-General on the strengthening of the management capacity of the United Nations Relief and Works Agency for Palestine Refugees in the Near East :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "422519": {
+    "title": "Financing of the UN Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "850615": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "855178": {
+    "title": "Preventing and combating illicit brokering activities :",
+    "meta_topic": "Disarmament"
+  },
+  "855211": {
+    "title": "Humanitarian Pledge for the Prohibition and Elimination of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3997234": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "738624": {
+    "title": "Status of Palestine in the United Nations :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "740173": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "820087": {
+    "title": "Modalities for the implementation of resolution 68/304, entitled \"Towards the establishment of a multilateral legal framework for sovereign debt restructuring processes\" :",
+    "meta_topic": "Development"
+  },
+  "820093": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "820101": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "820113": {
+    "title": "Operational activities for development of the United Nations system :",
+    "meta_topic": "Development"
+  },
+  "820125": {
+    "title": "Women, disarmament, non-proliferation and arms control :",
+    "meta_topic": "Disarmament"
+  },
+  "827188": {
+    "title": "Universal Declaration on the Achievement of a Nuclear-Weapon-Free World :",
+    "meta_topic": "Disarmament"
+  },
+  "827215": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "4003689": {
+    "title": "Cooperation between the United Nations and the Organisation for the Prohibition of Chemical Weapons :",
+    "meta_topic": "International Cooperation"
+  },
+  "764206": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3895469": {
+    "title": "Combating sand and dust storms :",
+    "meta_topic": "Development"
+  },
+  "3926467": {
+    "title": "The responsibility to protect and the prevention of genocide, war crimes, ethnic cleansing and crimes against humanity :",
+    "meta_topic": "Human Rights"
+  },
+  "429144": {
+    "title": "University of Jerusalem \"Al-Quds\" for Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "639475": {
+    "title": "Request for an advisory opinion of the International Court of Justice on whether the unilateral declaration of independence of Kosovo is in accordance with international law :",
+    "meta_topic": "International Law"
+  },
+  "765000": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3811071": {
+    "title": "Towards torture-free trade : examining the feasibility, scope and parameters for possible common international standards :",
+    "meta_topic": "International Cooperation"
+  },
+  "3813047": {
+    "title": "Financial reports and audited financial statements, and reports of the Board of Auditors :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3814149": {
+    "title": "Cooperation between the United Nations and the Pacific Islands Forum :",
+    "meta_topic": "International Cooperation"
+  },
+  "3840222": {
+    "title": "International Tea Day :",
+    "meta_topic": "Miscellaneous"
+  },
+  "429147": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "454280": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "588902": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and other occupied Arab territories :",
+    "meta_topic": "Human Rights in CRINK"
+  },
+  "614529": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "720165": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1654882": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "426217": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "428795": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "428799": {
+    "title": "Respect for the right to universal freedom of travel and the vital importance of family reunification :",
+    "meta_topic": "Human Rights"
+  },
+  "1325768": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1327552": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "1327560": {
+    "title": "Role of the United Nations in promoting development in the context of globalization and interdependence :",
+    "meta_topic": "Development"
+  },
+  "1655122": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1655569": {
+    "title": "Global health and foreign policy : healthier world through better nutrition :",
+    "meta_topic": "Development"
+  },
+  "1656643": {
+    "title": "Cooperation between the United Nations and the Organisation for the Prohibition of Chemical Weapons :",
+    "meta_topic": "International Cooperation"
+  },
+  "3837828": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3839987": {
+    "title": "Nuclear disarmament verification :",
+    "meta_topic": "Disarmament"
+  },
+  "643951": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "644310": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Miscellaneous"
+  },
+  "482541": {
+    "title": "Situation of human rights in the Sudan :",
+    "meta_topic": "Human Rights"
+  },
+  "3950472": {
+    "title": "Joint courses of action and future-oriented dialogue towards a world without nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "716363": {
+    "title": "Credentials of representatives to the 66th session of the General Assembly :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3893846": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "3893854": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3894180": {
+    "title": "The situation in Afghanistan :",
+    "meta_topic": "Displacement"
+  },
+  "3894258": {
+    "title": "Fourth International Decade for the Eradication of Colonialism :",
+    "meta_topic": "Development"
+  },
+  "3894279": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3928346": {
+    "title": "Political Declaration on HIV and AIDS : Ending Inequalities and Getting on Track to End AIDS by 2030 :",
+    "meta_topic": "Development"
+  },
+  "3929865": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "3965954": {
+    "title": "Humanitarian consequences of the aggression against Ukraine :",
+    "meta_topic": "Displacement"
+  },
+  "3998306": {
+    "title": "International Day for the Prevention of Violent Extremism as and when Conducive to Terrorism :",
+    "meta_topic": "International Cooperation"
+  },
+  "720591": {
+    "title": "Terrorist attacks on internationally protected persons :",
+    "meta_topic": "Human Rights"
+  },
+  "721805": {
+    "title": "The situation in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "724904": {
+    "title": "Progress towards an accountability system in the United Nations Secretariat :",
+    "meta_topic": "International Law"
+  },
+  "4014141": {
+    "title": "Independent Institution on Missing Persons in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "4027907": {
+    "title": "Building a peaceful and better world through sport and the Olympic ideal :",
+    "meta_topic": "International Cooperation"
+  },
+  "4030703": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "524030": {
+    "title": "Financing of the UN Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "537031": {
+    "title": "Question of Western Sahara :",
+    "meta_topic": "Displacement"
+  },
+  "537675": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "673960": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Displacement"
+  },
+  "820079": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non Self-Governing Territories :",
+    "meta_topic": "Displacement"
+  },
+  "820085": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "562423": {
+    "title": "Addressing the negative humanitarian and development impact of the illicit manufacture, transfer and circulation of small arms and light weapons and their excessive accumulation :",
+    "meta_topic": "Disarmament"
+  },
+  "738691": {
+    "title": "Preventing and combating illicit brokering activities :",
+    "meta_topic": "Disarmament"
+  },
+  "827228": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "855182": {
+    "title": "International, Impartial and Independent Mechanism to Assist in the Investigation and Prosecution of Persons Responsible for the Most Serious Crimes under International Law Committed in the Syrian Arab Republic since March 2011 :",
+    "meta_topic": "Human Rights"
+  },
+  "855187": {
+    "title": "Declaration on the Right to Peace :",
+    "meta_topic": "Human Rights"
+  },
+  "590303": {
+    "title": "Working Group of the Commission on Human Rights to elaborate a draft declaration in accordance with paragraph 5 of General Assembly resolution 49/214 of 23 December 1994 :",
+    "meta_topic": "Human Rights"
+  },
+  "429344": {
+    "title": "Measures to eliminate international terrorism :",
+    "meta_topic": "International Cooperation"
+  },
+  "689037": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "751572": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "765003": {
+    "title": "National legislation on transfer of arms, military equipment and dual-use goods and technology :",
+    "meta_topic": "Disarmament"
+  },
+  "3807805": {
+    "title": "Advisory opinion of the International Court of Justice on the legal consequences of the separation of the Chagos Archipelago from Mauritius in 1965 :",
+    "meta_topic": "International Law"
+  },
+  "3950570": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "3950802": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1654886": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "3967778": {
+    "title": "Suspension of the rights of membership of the Russian Federation in the Human Rights Council :",
+    "meta_topic": "Human Rights"
+  },
+  "3982659": {
+    "title": "The human right to a clean, healthy and sustainable environment :",
+    "meta_topic": "Human Rights"
+  },
+  "3990400": {
+    "title": "Territorial integrity of Ukraine : defending the principles of the Charter of the United Nations :",
+    "meta_topic": "International Law"
+  },
+  "3996909": {
+    "title": "Steps to building a common road map towards a world without nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3997238": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Development"
+  },
+  "3997709": {
+    "title": "Addressing and countering the world drug problem through a comprehensive, integrated and balanced approach :",
+    "meta_topic": "International Cooperation"
+  },
+  "4029006": {
+    "title": "Steps to building a common roadmap towards a world without nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "4029011": {
+    "title": "Through-life conventional ammunition management :",
+    "meta_topic": "Disarmament"
+  },
+  "4029015": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "4031002": {
+    "title": "Promotion of inclusive and effective international tax cooperation at the United Nations :",
+    "meta_topic": "International Cooperation"
+  },
+  "537022": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "562876": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3813050": {
+    "title": "Format and organizational aspects of the International Migration Review Forums :",
+    "meta_topic": "Displacement"
+  },
+  "464310": {
+    "title": "Zone of peace and cooperation of the South Atlantic :",
+    "meta_topic": "International Cooperation"
+  },
+  "827203": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "479322": {
+    "title": "Cooperation between the UN and the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization :",
+    "meta_topic": "Disarmament"
+  },
+  "482346": {
+    "title": "Assistance to Palestinian refugees :",
+    "meta_topic": "Displacement"
+  },
+  "482348": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "482389": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "482408": {
+    "title": "Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment :",
+    "meta_topic": "Human Rights"
+  },
+  "508136": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "509154": {
+    "title": "Universal realization of the right of peoples to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "509182": {
+    "title": "Respect for the principles of national sovereignty and diversity of democratic systems in electoral processes as an important element for the promotion and protection of human rights :",
+    "meta_topic": "Human Rights"
+  },
+  "536228": {
+    "title": "The Conference on Disarmament decision (CD/1547) of 11 August  1998 to establish, under item 1 of its agenda entitled \"Cessation of the nuclear arms race and nuclear disarmament\", an ad hoc committee to negotiate, on the basis of the report of the Special Coordinator (CD/1299) and the mandate contained therein, a non-discriminatory, multilateral and internationally and  effectively verifiable treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices   :",
+    "meta_topic": "Disarmament"
+  },
+  "536255": {
+    "title": "Convention on the Prohibition of Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "537038": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "646047": {
+    "title": "Anguilla :",
+    "meta_topic": "Displacement"
+  },
+  "646054": {
+    "title": "Pitcairn :",
+    "meta_topic": "Displacement"
+  },
+  "673485": {
+    "title": "The illicit trade in small arms and light weapons in all its aspects :",
+    "meta_topic": "Disarmament"
+  },
+  "720060": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "588186": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "613302": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "613420": {
+    "title": "Treaty on the South-East Asia Nuclear-Weapon-Free Zone (Bangkok Treaty) :",
+    "meta_topic": "Disarmament"
+  },
+  "724410": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "428793": {
+    "title": "Working towards the elimination of crimes against women committed in the name of honour :",
+    "meta_topic": "Human Rights"
+  },
+  "428806": {
+    "title": "Situation of human rights in the Sudan :",
+    "meta_topic": "Human Rights"
+  },
+  "614526": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "614533": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "429141": {
+    "title": "Offers by Member States of grants and scholarships for higher education, including vocational training, for Palestine refugees :",
+    "meta_topic": "Development"
+  },
+  "429154": {
+    "title": "Second International Decade for the Eradication of Colonialism :",
+    "meta_topic": "Development"
+  },
+  "453723": {
+    "title": "Preservation of and compliance with the Treaty on the Limitation of Anti-Ballistic Missile Sytems :",
+    "meta_topic": "Disarmament"
+  },
+  "454254": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "624717": {
+    "title": "Questions related to the United Nations Joint Staff Pension Fund :",
+    "meta_topic": "Miscellaneous"
+  },
+  "632041": {
+    "title": "The situation in the occupied territories of Azerbaijan :",
+    "meta_topic": "Miscellaneous"
+  },
+  "696882": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "1327543": {
+    "title": "Ensuring access to affordable, reliable, sustainable and modern energy for all :",
+    "meta_topic": "Development"
+  },
+  "3889751": {
+    "title": "Special session of the General Assembly in response to the coronavirus disease (COVID-19) pandemic :",
+    "meta_topic": "International Cooperation"
+  },
+  "3893461": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3894323": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "3895363": {
+    "title": "Promoting sustainable consumption and production patterns for the implementation of the 2030 Agenda for Sustainable Development, building on Agenda 21 :",
+    "meta_topic": "Development"
+  },
+  "739997": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Miscellaneous"
+  },
+  "765029": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Miscellaneous"
+  },
+  "779003": {
+    "title": "Towards the establishment of a multilateral legal framework for sovereign debt restructuring processes :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "827199": {
+    "title": "Reducing nuclear danger :",
+    "meta_topic": "Disarmament"
+  },
+  "827226": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "1290041": {
+    "title": "Request for an advisory opinion of the International Court of Justice on the legal consequences of the separation of the Chagos Archipelago from Mauritius 1965 :",
+    "meta_topic": "International Law"
+  },
+  "3839963": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "3950798": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "3950871": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Miscellaneous"
+  },
+  "3951456": {
+    "title": "Ensuring equitable, affordable, timely and universal access for all countries to vaccines in response to the coronavirus disease (COVID-19) pandemic :",
+    "meta_topic": "Development"
+  },
+  "3951519": {
+    "title": "Commodities :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "453747": {
+    "title": "Convention on the Prohibition of the Use of Nuclear Weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3893839": {
+    "title": "Joint courses of action and future-oriented dialogue towards a world without nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3895476": {
+    "title": "Quadrennial comprehensive policy review of operational activities for development of the United Nations System :",
+    "meta_topic": "Development"
+  },
+  "3897078": {
+    "title": "Income estimates for 2021 :",
+    "meta_topic": "Development"
+  },
+  "3996916": {
+    "title": "Conclusion of effective international arrangements to assure non-nuclear-weapon States against the use or threat of use of nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "3997237": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Human Rights"
+  },
+  "3997749": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4029433": {
+    "title": "Israeli settlements in the Occupied Palestinian Territory, including East Jerusalem, and the occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "4029437": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Displacement"
+  },
+  "428379": {
+    "title": "Zone of peace and cooperation of the South Atlantic :",
+    "meta_topic": "International Cooperation"
+  },
+  "1467690": {
+    "title": "Implementation of the Convention on the Rights of Persons with Disabilities and the Optional Protocol thereto : situation of women and girls with disabilities :",
+    "meta_topic": "Human Rights"
+  },
+  "3893803": {
+    "title": "Implementation of the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti Personnel Mines and on Their Destruction :",
+    "meta_topic": "Disarmament"
+  },
+  "4045077": {
+    "title": "Revised estimates relating to the Independent Institution on Missing Persons in the Syrian Arab Republic :",
+    "meta_topic": "Displacement"
+  },
+  "4048673": {
+    "title": "International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica :",
+    "meta_topic": "Human Rights"
+  },
+  "1325853": {
+    "title": "Palestine refugees' properties and their revenues :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1325863": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "1326165": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "1327542": {
+    "title": "Culture and sustainable development :",
+    "meta_topic": "Development"
+  },
+  "428797": {
+    "title": "Protection of migrants :",
+    "meta_topic": "Displacement"
+  },
+  "1327550": {
+    "title": "Commodities :",
+    "meta_topic": "Development"
+  },
+  "1630737": {
+    "title": "Complete and unconditional withdrawal of foreign military forces from the territory of the Republic of Moldova :",
+    "meta_topic": "International Law"
+  },
+  "1657119": {
+    "title": "Cooperation between the United Nations and the League of Arab States :",
+    "meta_topic": "International Cooperation"
+  },
+  "3841023": {
+    "title": "Countering the use of information and communications technologies for criminal purposes :",
+    "meta_topic": "International Cooperation"
+  },
+  "3846846": {
+    "title": "Enlargement of the Advisory Committee on Administrative and Budgetary Questions: amendment to rule 155 of the rules of procedure of the General Assembly :",
+    "meta_topic": "International Cooperation"
+  },
+  "3880646": {
+    "title": "Comprehensive and coordinated response to the coronavirus disease (COVID-19) pandemic :",
+    "meta_topic": "International Cooperation"
+  },
+  "429155": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "International Law"
+  },
+  "454775": {
+    "title": "The right of the Palestinian people to self-determination :",
+    "meta_topic": "Human Rights"
+  },
+  "694614": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "697336": {
+    "title": "Peaceful settlement of the question of Palestine :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "760076": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "765013": {
+    "title": "Assistance to Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "767565": {
+    "title": "Territorial integrity of Ukraine :",
+    "meta_topic": "International Law"
+  },
+  "643885": {
+    "title": "Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba :",
+    "meta_topic": "Economic Sanctions"
+  },
+  "820104": {
+    "title": "Raising the flags of non-member observer States at the United Nations :",
+    "meta_topic": "International Cooperation"
+  },
+  "820116": {
+    "title": "Venue of annual sessions of the Executive Board of the United Nations Development Programme/United Nations Population Fund/United Nations Office for Project Services :",
+    "meta_topic": "Development"
+  },
+  "827175": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non Self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "479343": {
+    "title": "Nuclear disarmament :",
+    "meta_topic": "Disarmament"
+  },
+  "482349": {
+    "title": "Offers by Member States of grants and scholarships for higher education, including vocational training, for Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "482377": {
+    "title": "University of Jerusalem \"Al-Quds\" for Palestine refugees :",
+    "meta_topic": "Displacement"
+  },
+  "482391": {
+    "title": "Dissemination of information on decolonization :",
+    "meta_topic": "Development"
+  },
+  "482534": {
+    "title": "Respect for the right to universal freedom of travel and the vital importance of family reunification :",
+    "meta_topic": "Human Rights"
+  },
+  "497742": {
+    "title": "Financing of the United Nations Interim Force in Lebanon :",
+    "meta_topic": "International Cooperation"
+  },
+  "562879": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-self-Governing Territories :",
+    "meta_topic": "Development"
+  },
+  "562935": {
+    "title": "Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples :",
+    "meta_topic": "Development"
+  },
+  "740170": {
+    "title": "Towards a comprehensive and integral international legal instrument to promote and protect the rights and dignity of older persons :",
+    "meta_topic": "Human Rights"
+  },
+  "588141": {
+    "title": "Declaration of a 4th disarmament decade :",
+    "meta_topic": "Disarmament"
+  },
+  "508018": {
+    "title": "Reduction of non-strategic nuclear weapons :",
+    "meta_topic": "Disarmament"
+  },
+  "509171": {
+    "title": "The right of everyone to the enjoyment of the highest attainable standard of physical and mental health :",
+    "meta_topic": "Human Rights"
+  },
+  "536220": {
+    "title": "Relationship between disarmament and development :",
+    "meta_topic": "Development"
+  },
+  "680440": {
+    "title": "Second follow-up to the report of the United Nations Fact-Finding Mission on the Gaza Conflict :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "537025": {
+    "title": "The occupied Syrian Golan :",
+    "meta_topic": "Israel/Palestine Conflict"
+  },
+  "720062": {
+    "title": "Persons displaced as a result of the June 1967 and subsequent hostilities :",
+    "meta_topic": "Displacement"
+  },
+  "720117": {
+    "title": "Economic and other activities which affect the interests of the peoples of the Non-Self-Governing Territories :",
+    "meta_topic": "International Law"
+  },
+  "820083": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including East Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "International Law"
+  },
+  "429146": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, to the occupied Palestinian territory, including Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "International Law"
+  },
+  "454275": {
+    "title": "Applicability of the Geneva Convention relative to the Protection of Civilian persons in Time of War, of 12 August 1949, to the Occupied Palestinian Territory, including Jerusalem, and the other occupied Arab territories :",
+    "meta_topic": "International Law"
+  },
+  "4053933": {
+    "title": "Safety and security of nuclear facilities of Ukraine, including the Zaporizhzhia nuclear power plant :",
+    "meta_topic": "Disarmament"
+  }
+}

@@ -6,13 +6,49 @@ This repository contains python code for measuring the political alignment of Ch
 
 This research examines the frequency, configuration, and issue-specific contours of CRINK voting alignment using United Nations General Assembly (UNGA) plenary from 1991-2024 and First Committee voting records from 2003-2024. The analysis situates CRINK alignment relative to Western democracies and the UN majority, providing a systematic assessment of whether these four countries constitute a cohesive authoritarian bloc or a fragmented coalition.
 
-## Key Findings
+## Summary
 
-- **Plenary Voting**: Marked consolidation of CRINK collective voting since the early 2000s, rising from ~30-40% to ~60-65% by 2024
-- **First Committee**: Substantially lower alignment (~25-35%) without sustained upward trajectory on security/disarmament issues
-- **Coalition Structure**: Group-of-four and triadic voting dominate over dyadic alignment; China occupies a central anchoring position
-- **Issue-Specific**: Cohesion on outer-space security and cyber governance; fragmentation on humanitarian and arms-control agendas
-- **Western Comparison**: Parallel trends of rising intra-group cohesion with declining majority alignment, reflecting broader polarization
+We find a marked consolidation of collective voting in the plenary since the early 2000s, alongside a simultaneous decline in alignment with the UN majority. This pattern does not extend to the First Committee: on security and disarmament issues, alignment remains substantially lower, volatile, and without a sustained upward trajectory. Across both arenas, alignment is not primarily dyadic; group-of-four and triadic voting dominate, and the China–Russia dyad is neither the strongest nor the most consistent. China occupies an anchoring position, with Russia, Iran, and North Korea aligning more frequently with China than with one another.
+
+Issue-specific analyses reveal cohesion on outer-space security and state-centric cyber governance, but fragmentation on humanitarian and arms-control agendas. A systematic comparison with Western democracies shows parallel trends of rising intra-group cohesion and declining majority alignment, underscoring a broader pattern of polarization in contemporary international politics.
+
+## Expected Output Files
+
+After executing both notebooks, the following files will be generated in the `results/` directory:
+
+### Figures (PNG format, 300 DPI)
+
+| File | Description |
+|------|-------------|
+| `Figure 1_Share_of_Group_Votes_and_Alignment_with_UN_Majority_UNGA.png` | CRINK voting alignment trends in UNGA Plenary (1991-2024) |
+| `Figure 2_Share_of_Group_Votes_and_Alignment_with_UN_Majority_First_Committee.png` | CRINK voting alignment in First Committee (2003-2024) |
+| `Figure 3_Share_of_CRINK_Coalition_Sizes_by_Year_UNGA.png` | Coalition size distribution over time (UNGA) |
+| `Figure 4_Share_of_Identical_Votes_per_Dyad_UNGA.png` | Pairwise voting alignment within CRINK (UNGA) |
+| `Figure 5_Share_of_CRINK_Coalition_Sizes_by_Year_First_Committee.png` | Coalition size distribution (First Committee) |
+| `Figure 6_Share_of_Identical_Votes_per_Dyad_First_Committee.png` | Pairwise voting alignment (First Committee) |
+| `Figure 7_Voting_Alignment_Against_the_United_States_UNGA.png` | Anti-US voting patterns (UNGA) |
+| `Figure 8_Voting_Alignment_Against_the_United_States_First_Committee.png` | Anti-US voting patterns (First Committee) |
+| `Figure 9_Share_of_Western_Democracies_Votes_and_Alignment_with_UN_Majority_UNGA.png` | Western democracies comparison (UNGA) |
+
+### Tables (LaTeX format)
+
+| File | Description |
+|------|-------------|
+| `Table_2_Topic_Distribution_of_Resolutions_where_CRINK_States_Fully_Aligned_in_the_UNGA_Plenary_1991-2024.tex` | Topic distribution of CRINK-aligned resolutions |
+| `Table3_dyad_alignment_table_China_UNGA.tex` | China-centric dyadic alignment (UNGA) |
+| `Table4_dyad_alignment_table_China_First_Committee.tex` | China-centric dyadic alignment (First Committee) |
+| `Table5_dyad_alignment_table_US_UNGA.tex` | US-centric dyadic alignment comparison |
+
+> **Note:** LaTeX tables require a TeX editor (e.g., [Overleaf](https://www.overleaf.com/) or [Papeeria](https://papeeria.com/)) to render properly.
+
+### Intermediate Files (`results/intermediate/`)
+
+These files are generated during execution for verification and debugging:
+
+- `resolutions_with_metatopics_UNGA_*.csv` - Full dataset with topic assignments per resolution
+- `table_dyadic_alignment_*.csv` - Dyadic alignment matrices
+- `table_pair_statistics_*.csv` - Pairwise voting statistics
+- `Table*_*.html` - HTML previews of tables (for browser viewing)
 
 ## Data Sources
 
@@ -40,7 +76,7 @@ measuring-CRINK-alignment-UN/
 │   └── metadata.json                  # Data provenance and versions
 │
 ├── notebooks/
-│   ├── 01_alignment_metrics.ipynb     # CRINK alignment metrics (Figure 1-9; Table 3-5)
+│   ├── 01_alignment_metrics.ipynb     # CRINK alignment metrics (Figures 1-9; Tables 3-5)
 │   └── 02_generating_topic_analysis.ipynb  # Topic-level voting analysis (Table 2)
 │
 ├── src/
@@ -53,8 +89,10 @@ measuring-CRINK-alignment-UN/
 │   ├── config.yaml                    # Analysis configuration (no secrets)
 │   └── .env.example                   # Template for environment variables
 │
-├── results/
-│   └── .gitkeep                       # Output plots and tables
+├── results/                           # Output directory for publication files
+│   ├── Figure 1-9 (*.png)             # Publication figures
+│   ├── Table 2-5 (*.tex)              # LaTeX tables for publication
+│   └── intermediate/                  # Working files (CSVs, HTML previews)
 │
 └── docs/
     ├── methodology.md                 # Detailed methodology
@@ -102,8 +140,15 @@ Open and execute the notebooks in order:
 
 ```bash
 jupyter notebook notebooks/01_alignment_metrics.ipynb
-jupyter notebook notebooks/02_topic_distribution.ipynb
+jupyter notebook notebooks/02_generating_topic_analysis.ipynb
 ```
+
+> **Important:** Notebook `01_alignment_metrics.ipynb` must be executed **twice** - once for each dataset:
+> 
+> 1. **First run (UNGA Plenary):** In Cell 2, set `dataset_choice = 'UNGA_voting_records_filtered.csv'`
+> 2. **Second run (First Committee):** Change to `dataset_choice = 'First_Committee_voting_records_filtered.csv'`
+> 
+> This generates separate figures and tables for each dataset (Figures 1-4, 7, 9 for UNGA; Figures 2, 5-6, 8 for First Committee).
 
 ## Reproducibility
 
