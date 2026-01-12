@@ -190,13 +190,6 @@ UNGA_START_YEAR = 1991
 FIRST_COMMITTEE_START_YEAR = 2003
 END_YEAR = 2024
 ```
-
-## Documentation
-
-- **[Methodology](docs/methodology.md)**: Detailed explanation of data sources, processing steps, and analytical approach
-- **[Data Dictionary](docs/data_dictionary.md)**: Complete description of all dataset columns and variables
-- **[Troubleshooting](docs/troubleshooting.md)**: Solutions to common issues
-
 ## Citation
 
 Citation information will be provided upon publication.
