@@ -53,6 +53,7 @@ data/raw/*.csv
 data/processed/*.csv
 *.npy
 *.npz
+*.tex
 
 # Results and outputs
 results/*.png
