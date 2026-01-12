@@ -39,7 +39,7 @@ After executing both notebooks, the following files will be generated in the `re
 
 ### Intermediate Files (`results/intermediate/`)
 
-- `resolutions_with_metatopics_UNGA.csv` - Full dataset with topic assignments per resolution
+- `resolutions_with_metatopics_UNGA.csv` - Full dataset with topic assignments for 2597 resolutions wher all 4 CRINK states aligned.
 - `table_dyadic_alignment_*.csv` - Dyadic alignment matrices
 - `table_pair_statistics_*.csv` - Pairwise voting statistics
 - `Table*_*.html` - HTML previews of tables (for browser viewing)
